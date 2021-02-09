@@ -1,20 +1,20 @@
 [
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 11718,
-    "open_issues_count": 156,
-    "forks_count": 1234
+    "stargazers_count": 11722,
+    "open_issues_count": 158,
+    "forks_count": 1235
   },
   {
     "full_name": "apollographql/apollo-server",
-    "stargazers_count": 10977,
-    "open_issues_count": 518,
-    "forks_count": 1623
+    "stargazers_count": 10991,
+    "open_issues_count": 514,
+    "forks_count": 1630
   },
   {
     "full_name": "FormidableLabs/urql",
-    "stargazers_count": 5485,
+    "stargazers_count": 5490,
     "open_issues_count": 19,
-    "forks_count": 226
+    "forks_count": 227
   }
 ]
